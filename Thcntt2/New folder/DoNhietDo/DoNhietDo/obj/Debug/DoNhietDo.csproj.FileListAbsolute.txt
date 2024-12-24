@@ -1,0 +1,23 @@
+C:\Users\tohoa\OneDrive\Máy tính\New folder\DoNhietDo\DoNhietDo\obj\Debug\DoNhietDo.csproj.AssemblyReference.cache
+C:\Users\tohoa\OneDrive\Máy tính\New folder\DoNhietDo\DoNhietDo\obj\Debug\DoNhietDo.Form1.resources
+C:\Users\tohoa\OneDrive\Máy tính\New folder\DoNhietDo\DoNhietDo\obj\Debug\DoNhietDo.Properties.Resources.resources
+C:\Users\tohoa\OneDrive\Máy tính\New folder\DoNhietDo\DoNhietDo\obj\Debug\DoNhietDo.csproj.GenerateResource.cache
+C:\Users\tohoa\OneDrive\Máy tính\New folder\DoNhietDo\DoNhietDo\obj\Debug\DoNhietDo.csproj.CoreCompileInputs.cache
+C:\Users\tohoa\OneDrive\Máy tính\New folder\DoNhietDo\DoNhietDo\bin\Debug\DoNhietDo.exe.config
+C:\Users\tohoa\OneDrive\Máy tính\New folder\DoNhietDo\DoNhietDo\bin\Debug\DoNhietDo.exe
+C:\Users\tohoa\OneDrive\Máy tính\New folder\DoNhietDo\DoNhietDo\bin\Debug\DoNhietDo.pdb
+C:\Users\tohoa\OneDrive\Máy tính\New folder\DoNhietDo\DoNhietDo\obj\Debug\DoNhietDo.exe
+C:\Users\tohoa\OneDrive\Máy tính\New folder\DoNhietDo\DoNhietDo\obj\Debug\DoNhietDo.pdb
+C:\Users\Workhard\Downloads\Thcntt2\New folder\DoNhietDo\DoNhietDo\bin\Debug\DoNhietDo.exe.config
+C:\Users\Workhard\Downloads\Thcntt2\New folder\DoNhietDo\DoNhietDo\bin\Debug\DoNhietDo.exe
+C:\Users\Workhard\Downloads\Thcntt2\New folder\DoNhietDo\DoNhietDo\bin\Debug\DoNhietDo.pdb
+C:\Users\Workhard\Downloads\Thcntt2\New folder\DoNhietDo\DoNhietDo\obj\Debug\DoNhietDo.csproj.AssemblyReference.cache
+C:\Users\Workhard\Downloads\Thcntt2\New folder\DoNhietDo\DoNhietDo\obj\Debug\DoNhietDo.Form1.resources
+C:\Users\Workhard\Downloads\Thcntt2\New folder\DoNhietDo\DoNhietDo\obj\Debug\DoNhietDo.Properties.Resources.resources
+C:\Users\Workhard\Downloads\Thcntt2\New folder\DoNhietDo\DoNhietDo\obj\Debug\DoNhietDo.csproj.GenerateResource.cache
+C:\Users\Workhard\Downloads\Thcntt2\New folder\DoNhietDo\DoNhietDo\obj\Debug\DoNhietDo.csproj.CoreCompileInputs.cache
+C:\Users\Workhard\Downloads\Thcntt2\New folder\DoNhietDo\DoNhietDo\obj\Debug\DoNhietDo.exe
+C:\Users\Workhard\Downloads\Thcntt2\New folder\DoNhietDo\DoNhietDo\obj\Debug\DoNhietDo.pdb
+C:\Users\Workhard\Downloads\Thcntt2\New folder\DoNhietDo\DoNhietDo\bin\Debug\MQTTnet.dll
+C:\Users\Workhard\Downloads\Thcntt2\New folder\DoNhietDo\DoNhietDo\bin\Debug\MQTTnet.xml
+C:\Users\Workhard\Downloads\Thcntt2\New folder\DoNhietDo\DoNhietDo\obj\Debug\DoNhietDo.csproj.Up2Date
